@@ -44,6 +44,7 @@ BepInEx/plugins/NWO_Guardian_Protocol.dll
 BepInEx/plugins/NWO_Userspace.dll
 BepInEx/plugins/NWO_WorldEvolvers.dll
 BepInEx/plugins/NWOVLH.dll
+BepInEx/plugins/FastLink.dll
 BepInEx/plugins/OdinArchitect.dll
 BepInEx/plugins/People Net Fix.dll
 BepInEx/plugins/PlanBuild.dll
@@ -88,3 +89,5 @@ BepInEx/config/marcopogo.PlanBuild.cfg
 BepInEx/config/NWO_PlayerRegistry.txt
 BepInEx/config/NWO_WorldBlueprint.json
 BepInEx/config/org.bepinex.plugins.creaturelevelcontrol.cfg
+BepInEx/config/Azumatt.FastLink.cfg
+BepInEx/config/Azumatt.FastLink_servers.yml
