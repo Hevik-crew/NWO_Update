@@ -1,3 +1,14 @@
+winhttp.dll
+doorstop_config.ini
+BepInEx/core/BepInEx.dll
+BepInEx/core/BepInEx.Preloader.dll
+BepInEx/core/HarmonyXInterop.dll
+BepInEx/core/Mono.Cecil.dll
+BepInEx/core/Mono.Cecil.Mdb.dll
+BepInEx/core/Mono.Cecil.Pdb.dll
+BepInEx/core/Mono.Cecil.Rocks.dll
+BepInEx/core/MonoMod.RuntimeDetour.dll
+BepInEx/core/MonoMod.Utils.dll
 BepInEx/plugins/AzuAnticheat.dll
 BepInEx/plugins/AzuClock.dll
 BepInEx/plugins/AzuExtendedPlayerInventory.dll
