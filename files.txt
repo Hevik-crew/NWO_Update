@@ -2,6 +2,9 @@ winhttp.dll
 doorstop_libs/libdoorstop_x64.dylib
 doorstop_libs/libdoorstop_x64.so
 doorstop_config.ini
+.doorstop_version
+start_game_bepinex.sh
+start_server_bepinex.sh
 BepInEx/core/BepInEx.dll
 BepInEx/core/BepInEx.Preloader.dll
 BepInEx/core/HarmonyXInterop.dll
