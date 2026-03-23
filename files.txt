@@ -1,4 +1,6 @@
 winhttp.dll
+doorstop_libs/libdoorstop_x64.dylib
+doorstop_libs/libdoorstop_x64.so
 doorstop_config.ini
 BepInEx/core/BepInEx.dll
 BepInEx/core/BepInEx.Preloader.dll
