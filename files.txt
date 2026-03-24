@@ -1,4 +1,3 @@
-Architect hummer.mp3
 winhttp.dll
 doorstop_libs/libdoorstop_x64.dylib
 doorstop_libs/libdoorstop_x64.so
@@ -46,7 +45,7 @@ BepInEx/plugins/NWO_WorldEvolvers.dll
 BepInEx/plugins/NWOVLH.dll
 BepInEx/plugins/FastLink.dll
 BepInEx/plugins/OdinArchitect.dll
-BepInEx/plugins/PeopleNetFix.dll
+BepInEx/plugins/People Net Fix.dll
 BepInEx/plugins/PlanBuild.dll
 BepInEx/plugins/ServerCharacters.dll
 BepInEx/plugins/Clutter/Clutter.dll
