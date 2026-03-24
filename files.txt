@@ -46,7 +46,6 @@ BepInEx/plugins/NWOVLH.dll
 BepInEx/plugins/FastLink.dll
 BepInEx/plugins/OdinArchitect.dll
 BepInEx/plugins/People Net Fix.dll
-BepInEx/plugins/PlanBuild.dll
 BepInEx/plugins/ServerCharacters.dll
 BepInEx/plugins/Clutter/Clutter.dll
 BepInEx/plugins/Clutter/Assets/Translations/English/Clutter.json
@@ -54,18 +53,6 @@ BepInEx/plugins/Jotunn/Jotunn.dll
 BepInEx/plugins/Jotunn/Jotunn.dll.mdb
 BepInEx/plugins/Jotunn/Jotunn.pdb
 BepInEx/plugins/Jotunn/Jotunn.xml
-BepInEx/plugins/MMHOOK/BepInEx.MonoMod.HookGenPatcher.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_googleanalytics.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_guiutils.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_lux.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_postprocessing.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_simplemeshcombine.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_sunshafts.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_utils.dll
-BepInEx/plugins/MMHOOK/MMHOOK_assembly_valheim.dll
-BepInEx/plugins/MMHOOK/MonoMod.dll
-BepInEx/plugins/MMHOOK/MonoMod.RuntimeDetour.HookGen.dll
-BepInEx/patchers/BepInEx.MonoMod.HookGenPatcher.dll
 BepInEx/config/Azumatt.AzuAntiCheat.cfg
 BepInEx/config/Azumatt.AzuAntiCheat_Webhook.yml
 BepInEx/config/Azumatt.AzuClock.cfg
@@ -82,10 +69,7 @@ BepInEx/config/com.nwo.magicward.cfg
 BepInEx/config/com.peoplecodelab.netfix.cfg
 BepInEx/config/CreatureConfig.yml
 BepInEx/config/CreatureLevelAndLootControl.Russian.yml
-BepInEx/config/HookGenPatcher.cfg
 BepInEx/config/ItemConfig.yml
-BepInEx/config/marcopogo.PlanBuild.cfg
-BepInEx/config/NWO_PlayerRegistry.txt
 BepInEx/config/NWO_WorldBlueprint.json
 BepInEx/config/org.bepinex.plugins.creaturelevelcontrol.cfg
 BepInEx/config/Azumatt.FastLink.cfg
