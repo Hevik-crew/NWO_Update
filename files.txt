@@ -47,8 +47,6 @@ BepInEx/plugins/FastLink.dll
 BepInEx/plugins/OdinArchitect.dll
 BepInEx/plugins/People Net Fix.dll
 BepInEx/plugins/ServerCharacters.dll
-BepInEx/plugins/Clutter/Clutter.dll
-BepInEx/plugins/Clutter/Assets/Translations/English/Clutter.json
 BepInEx/plugins/Jotunn/Jotunn.dll
 BepInEx/plugins/Jotunn/Jotunn.dll.mdb
 BepInEx/plugins/Jotunn/Jotunn.pdb
