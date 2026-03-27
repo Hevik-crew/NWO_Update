@@ -71,10 +71,8 @@ BepInEx/plugins/Professions.dll
 BepInEx/plugins/Ranching.dll
 BepInEx/plugins/Sailing.dll
 BepInEx/plugins/ServerCharacters.dll
-BepInEx/plugins/ServerDevcommands.dll
 BepInEx/plugins/Starvation.dll
 BepInEx/plugins/Tenacity.dll
-BepInEx/plugins/XRayVision.dll
 BepInEx/config/BepInEx.cfg
 BepInEx/config/Azumatt.FastLink.cfg
 BepInEx/config/Azumatt.FastLink_servers.yml
