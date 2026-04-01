@@ -61,7 +61,7 @@ BepInEx/plugins/NpcModels.dll
 BepInEx/plugins/NWOVLH.dll
 BepInEx/plugins/NWO_ArenaProtocol.dll
 BepInEx/plugins/NWO_Commander.dll
-BepInEx/plugins/NWO_Guardian_Protocol.dll
+BepInEx/plugins/Havik_Engine.dll
 BepInEx/plugins/NWO_UserSpace.dll
 BepInEx/plugins/NWO_WorldEvolvers.dll
 BepInEx/plugins/NWO_WorldThreats.dll
